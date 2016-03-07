@@ -1,2 +1,2 @@
 # dumpster
-A generic dumpster/container. Designed in Solid Edge ST7 
+A generic dumpster/container with replaceable partitions. Designed in Solid Edge ST8.
